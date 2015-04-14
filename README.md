@@ -93,7 +93,7 @@ By default, the extracted directory is extracted to
 
 # Actions
 
-- `:install`: extracts the tarball and makes necessary symlinks
+- `:install`: extracts the tarball and makes necessary symlinksxhhxnxfn
 - `:remove`: removes the tarball and run update-alternatives for all
   symlinked `bin_cmds`
 
